@@ -1,0 +1,25 @@
+.card{
+    border: none!important;
+}
+body{
+    font-family: sans-serif!important;
+}
+h1{
+    font-size: 25px!important;
+    padding-left:5px;
+    font-weight: 700!important;
+    
+}
+.card-title{
+    font-size: 15px!important;
+}
+.card-title:hover{
+    color: red;
+    cursor: pointer;
+}
+.verticalLine {
+
+   
+    border-left: thick solid #ff0000;
+    height: 30px;
+  }
